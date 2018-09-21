@@ -1,4 +1,3 @@
-// Write JavaScript here and press Ctrl+Enter to execute
 class Button extends React.Component {
 
 	handleOnClick = () => {
